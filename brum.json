@@ -1,0 +1,26 @@
+[
+  {
+    "rekisterinumero": "ABC-123",
+    "merkki": "Toyota",
+    "vari": "sininen",
+    "vuosi": "2020"
+  },
+  {
+    "rekisterinumero": "DEF-456",
+    "merkki": "Honda",
+    "vari": "punainen",
+    "vuosi": "2018"
+  },
+  {
+    "rekisterinumero": "GHI-789",
+    "merkki": "Volkswagen",
+    "vari": " hopea",
+    "vuosi": " 2021"
+  },
+  {
+    "rekisterinumero": "JKL-012",
+    "merkki": "Skoda",
+    "vari": "harmaa",
+    "vuosi": "2016"
+  }
+]
